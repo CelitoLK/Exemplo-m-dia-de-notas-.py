@@ -1,0 +1,5 @@
+not1 = float(input('Digite a primeira nota: '))
+not2 = float(input('Digite a segunda nota: '))
+not3 = float(input('Digite a terceira nota: '))
+not4 = float(input('Digite a quarta nota: '))
+print ('A média aritmética é {}' .format((not1+not2+not3+not4)/4))
